@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T04:53:24.042Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="BHwkjOJQaidI8HOlaafW" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T05:09:59.552Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="BjORx61x1losYKYPsePT" version="21.2.2" type="github">
   <diagram name="Page-1" id="vN7ikmCzUYrW8pYUsNlJ">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="d5l_B6ZjfewMHQgi6FsW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="110" width="320" height="610" as="geometry" />
+          <mxGeometry x="220" y="10" width="370" height="700" as="geometry" />
         </mxCell>
         <mxCell id="d5l_B6ZjfewMHQgi6FsW-4" value="Tournamant management System" style="text;html=1;strokeColor=#1755FF;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="110" width="210" height="30" as="geometry" />
+          <mxGeometry x="220" y="10" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d5l_B6ZjfewMHQgi6FsW-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="190" width="30" height="60" as="geometry" />
@@ -27,6 +27,42 @@
         </mxCell>
         <mxCell id="d5l_B6ZjfewMHQgi6FsW-10" value="Tournament evaluation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="633" y="280" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5l_B6ZjfewMHQgi6FsW-13" value="Support and maintenance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="155" width="280" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="d5l_B6ZjfewMHQgi6FsW-16" value="Scaling and system upgrades" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="215" width="280" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="d5l_B6ZjfewMHQgi6FsW-17" value="evaluation and improvement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="275" width="280" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="d5l_B6ZjfewMHQgi6FsW-18" value="payment processing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="280" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="d5l_B6ZjfewMHQgi6FsW-19" value="match scheduling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="397.5" width="280" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="d5l_B6ZjfewMHQgi6FsW-20" value="Team registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="280" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="d5l_B6ZjfewMHQgi6FsW-21" value="Tournament creation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="500" width="280" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="d5l_B6ZjfewMHQgi6FsW-22" value="User Login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="550" width="280" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="d5l_B6ZjfewMHQgi6FsW-23" value="User Registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="610" width="280" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="d5l_B6ZjfewMHQgi6FsW-25" value="Real time updates" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="280" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="d5l_B6ZjfewMHQgi6FsW-26" value="User Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="280" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="d5l_B6ZjfewMHQgi6FsW-27" value="User Registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="660" width="280" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
